@@ -1,0 +1,22 @@
+{
+  "name": "servicenow-rest-api",
+  "version": "1.1.1",
+  "description": "Wrapper library for ServiceNow REST API",
+  "main": "servicenow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chaitanya Karanam",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "keywords": [
+    "node",
+    "service-now"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChaitanyaKaranam/servicenow-rest-api"
+  }
+}
